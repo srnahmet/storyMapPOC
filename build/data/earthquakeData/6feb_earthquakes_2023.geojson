@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "6feb_earthquakes_2023",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "mag": 7.5, "magType": "mww" }, "geometry": { "type": "Point", "coordinates": [ 4141419.015982157085091, 4582746.106824797578156 ] } },
+{ "type": "Feature", "properties": { "mag": 7.8, "magType": "mww" }, "geometry": { "type": "Point", "coordinates": [ 4121147.736708701122552, 4470529.441831851378083 ] } }
+]
+}

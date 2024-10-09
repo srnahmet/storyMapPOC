@@ -1,0 +1,7 @@
+Deprem nokta verileri https://www.kaggle.com/datasets/garrickhague/world-earthquake-data-from-1906-2022 web adresi üzerinden alınmıştır.
+Lisans : U.S. Government Works 
+
+Deprem fay hatları çizgi verileri https://github.com/GEMScienceTools/gem-global-active-faults web adresi üzerinden alınmıştır.
+Lisans : CC-BY-SA-4.0 license 
+The dataset is freely and publicly available here, under a Creative Commons attribution sharealike license.
+Styron, Richard, and Marco Pagani. “The GEM Global Active Faults Database.” Earthquake Spectra, vol. 36, no. 1_suppl, Oct. 2020, pp. 160–180, doi:10.1177/8755293020944182
