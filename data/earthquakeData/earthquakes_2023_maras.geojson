@@ -116,7 +116,7 @@
 { "type": "Feature", "properties": { "year": 2023, "mag": 5.7 }, "geometry": { "type": "Point", "coordinates": [ 4236029.451207360252738, 4596901.091720946133137 ] } },
 { "type": "Feature", "properties": { "year": 2023, "mag": 5.8 }, "geometry": { "type": "Point", "coordinates": [ 4202366.437191474251449, 4580612.519116449169815 ] } },
 { "type": "Feature", "properties": { "year": 2023, "mag": 6.0 }, "geometry": { "type": "Point", "coordinates": [ 4226088.620679521001875, 4583692.938882631249726 ] } },
-{ "type": "Feature", "properties": { "year": 2023, "mag": 7.5 }, "geometry": { "type": "Point", "coordinates": [ 4141419.015982157085091, 4582746.106824797578156 ] } },
+{ "type": "Feature", "properties": { "year": 2023, "mag": 7.6 }, "geometry": { "type": "Point", "coordinates": [ 4141419.015982157085091, 4582746.106824797578156 ] } },
 { "type": "Feature", "properties": { "year": 2023, "mag": 4.6 }, "geometry": { "type": "Point", "coordinates": [ 4062348.781671694479883, 4436862.892409577034414 ] } },
 { "type": "Feature", "properties": { "year": 2023, "mag": 4.5 }, "geometry": { "type": "Point", "coordinates": [ 4258738.627329187467694, 4587057.012862011790276 ] } },
 { "type": "Feature", "properties": { "year": 2023, "mag": 4.8 }, "geometry": { "type": "Point", "coordinates": [ 4144803.128502272535115, 4501877.762348575517535 ] } },
